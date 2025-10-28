@@ -25,22 +25,18 @@ This project performs basic arithmetic operations such as addition, subtraction,
 
 ## 📂 Project Structure
 
-📦 Calculator
-┣ 📜 index.html
-┣ 📜 style.css
-┣ 📜 script.js
-┗ 📜 README.md
+Calculator/
+├── index.html
+├── style.css
+├── script.js
+└── README.md
 
-yaml
-Copy code
-
----
 
 ## 🖥️ How to Run Locally
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/YourUsername/Calculator.git
+   git clone https://github.com/Moosa2006/Calculator.git
 Navigate to the project folder:
 
 bash
@@ -57,9 +53,6 @@ Include keyboard input support ⌨️
 
 Show calculation history 🕒
 
-🖼️ Preview
-(Add a screenshot or GIF of your calculator UI here)
-Example:
 
 🤝 Contributing
 Feel free to fork the repo and suggest improvements through pull requests.
